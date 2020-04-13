@@ -1,7 +1,7 @@
 # TradeClaw.net
 Releasing summer 2020
 * Trading signals (free & paid subscriptions)
-* Automated trading bot (2nd phase)
+* Automated trading bot (Phase 2)
 
 For more up to date information, join our Discord
 https://discord.gg/9H226nX
@@ -11,7 +11,7 @@ https://discord.gg/9H226nX
 ### Known issues
 - None
 
-### Next Priorities
+### Phase 1 Priorities
 - REST API for database
 - Centralized exchange configs
 - Bitmex production addition
@@ -31,12 +31,18 @@ https://discord.gg/9H226nX
 - Add ByBit
 - Add Deribit
 - Add KuCoin
+### Phase 2 Priorities
 - Strategy composition
 - Leverage trading
 - Order placement
 - Order follow-up
 - Order follow-up (advanced)
 - Leverage trading (advanced)
+- User interface
+- User exchange delegation
+### Phase 3 Priorities
+- User graphing interface
+- User exchange delegation (Advanced)
 
 ### Feature request list
 - Binance addition
