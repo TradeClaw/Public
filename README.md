@@ -6,10 +6,13 @@ Releasing summer 2020
 For more up to date information, join our Discord
 https://discord.gg/9H226nX
 
-### CHANGELOG 2020-04-12 ###
+### CHANGELOG : 2020-04-12 ###
 
 ### Known issues
 - None
+
+### Feature request list
+- Binance addition
 
 ### Phase 1 Priorities
 - REST API for database
@@ -43,9 +46,6 @@ https://discord.gg/9H226nX
 ### Phase 3 Priorities
 - User graphing interface
 - User exchange delegation (Advanced)
-
-### Feature request list
-- Binance addition
 
 ## [0.0.2] SLOTH - 2020-04-12
 ### Summary
