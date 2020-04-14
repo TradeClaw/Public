@@ -106,7 +106,8 @@ This will not be revealed since this is the algorithm we have developed and fine
 
 ### How can I be certain you won't abuse my API keys needed for the trading bot service?
 In all honesty, we can't give you any certainty since there will be some trust needed and our reputation will build up over time. \
-You can always stick to using the trading signals and executing the trades yourself, there is no obligation in using the bot service.
+You can always stick to using the trading signals and executing the trades yourself, there is no obligation in using the bot service. \
+It's also a good idea to create a separate account on the trading platform of your choice, if their terms allow it.
 
 ### Will there be an ICO/IPO or any other investment offering?
 No, we do not need any investment to launch the TradeClaw platform, it provides its own funds for covering operational costs.
@@ -133,3 +134,7 @@ TradeClaw will always run two versions of the code, only the long-term stable ve
 ### What is the (Application/Infrastructure) design of TradeClaw?
 For security reasons this will not be disclosed. \
 Every member of our team has been working in the datacenter and service provider business for at least 15 years, TradeClaw is built on a ton of experience!
+
+### What happens with open trades if I change the assets or funds on my trading platform account?
+TradeClaw will show which and how many assets/funds are needed for it to function properly, if you change this while the bot service is active and a trade is in progress, you are risking failure on mechanics like average down orders. \
+When a trade opens, your account situation will be checked and logged in our database for full tracking of what went wrong in case of failure.
