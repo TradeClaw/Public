@@ -8,7 +8,8 @@ TradeClaw is the 3rd iteration of a platform that generates trading signals and 
 You can find us on Discord:\
 https://discord.gg/9H226nX  \
 \
-We made this choice to make it manageable and easy to moderate, the trading space on the internet is filled with false promises and fake portfolio management services so we want to avoid our users being scammed on our watch!
+We made this choice to make it manageable and easy to moderate. \
+The trading space on the internet is filled with false promises, fake portfolio management services and ponzi schemes so we want to avoid our users being scammed on our watch!
 
 ### What is the track record of v1/v2 of TradeClaw?
 The platform is profitable, over 65% of trades close green monthly and drawdown has been limited due to the fact that everything is automated and enhanced over the years with features to uphold a good strategy. \
