@@ -4,7 +4,7 @@
 
 ### Where is the TradeClaw community?
 You can find us on Discord:\
-https://discord.gg/9H226nX\
+https://discord.gg/9H226nX  \
 \
 We made this choice to make it manageable and easy to moderate.
 
