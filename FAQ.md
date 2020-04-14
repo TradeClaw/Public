@@ -53,7 +53,7 @@ We currently do not offer invoices or other B2B aspects, feel free to check in w
 
 ### How will payment be done and how much is it?
 Our preference will be cryptocurrency as a way of paying for membership but this has not been worked out at the time of writing. \
-We have decided to only offer monthly subscriptions because we are sure our product quality is good and we do not need to lure anyone in with a 'limited offer' yearly payment option. \
+We have decided to only offer monthly subscriptions because we are sure our product quality is good and we do not need to lure anyone in with a 'limited offer' yearly payment option. 
 
 ### Will you have a referral or MLM option?
 Short answer: yes. \
