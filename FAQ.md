@@ -91,3 +91,4 @@ We currently are putting together a list of things we consider being helpful or 
 * Ambassador (Facebook)
 * Ambassador (Youtube)
 * Ambassador (Articles/Blogging)
+And yes, there will be rewards for all of these actions but they will have to be of high quality, especially the ambassador work can not be spamming or copy/pasting the same things all over.
