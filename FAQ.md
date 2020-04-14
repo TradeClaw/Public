@@ -42,3 +42,8 @@ Today privacy is a rare gift, we do not share our identities for a number of rea
 ### What happens if you get shut down?
 Nothing, the platform will still exist without it's website or what not. \
 We will never manage your funds in our accounts so nobody can lose anything, a choice made to minimize risk even though there is nothing illegal about TradeClaw.
+
+### Why are you having a free membership possibility?
+As stated above, TradeClaw is about showing our work to the world and what better way to do this than sharing some for free? \
+This free or basic membership has its limitations and the signals are delayed compared to the paid counterparts. \
+The higher tier members have the ability to make requests for features and get priority in support, whereas the basic members receive a best effort service based on the availability of our support staff.
