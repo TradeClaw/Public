@@ -131,5 +131,6 @@ People claiming differently and offering 50% weekly gains or 9 out of 10 trades 
 TradeClaw will always run two versions of the code, only the long-term stable version will be used for users and the new releases are deployed for the internal accounts.
 
 ### What is the (Application/Infrastructure) design of TradeClaw?
-For security reasons this will not be disclosed. \ 
+For security reasons this will not be disclosed. \
+
 Every member of our team has been working in the datacenter and service provider business for at least 15 years, TradeClaw is built on a ton of experience!
