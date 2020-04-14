@@ -58,3 +58,8 @@ We have decided to only offer monthly subscriptions because we are sure our prod
 ### Will you have a referral or MLM option?
 Short answer: yes. \
 At least for a chance of earning a higher tier membership or getting a percentage off, we are still investigating other possibilities.
+
+### Are you open to working together or any business offers?
+We have been in this space for a long time and know the drill, most of the inquires are not legit or will not benefit anything on TradeClaw. \
+We are NOT looking to pay for social media marketing, promotion or shout outs. \
+Of course we are open to serious business offers with a mutual benefit.
