@@ -2,7 +2,7 @@
 If you have additional questions, feel free to leave them in the Discord channel dedicated to that and we'd be happy to answer them.
 
 ### What is TradeClaw?
-TradeClaw is the 3rd iteration of a platform that generates trading signals and automated follow-up on those signal in the form of a trading bot. \
+TradeClaw is the 3rd iteration of a platform that generates trading signals and automated follow-up on those signal in the form of a trading bot. 
 
 ### Where is the TradeClaw community?
 You can find us on Discord:\
