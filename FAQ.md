@@ -64,3 +64,14 @@ At least for a chance of earning a higher tier membership or getting a percentag
 We have been in this space for a long time and know the drill, most of the inquires are not legit or will not benefit anything on TradeClaw. \
 We are NOT looking to pay for social media marketing, promotion or shout outs. \
 Of course we are open to serious business offers with a mutual benefit.
+
+### Am I allowed to join the TradeClaw platform as a resident of my country?
+The responsibility of knowing wether or not you are allowed to use our services, lies with you. \
+To our knowledge we will not provide any service that is illegal anywhere in the world.
+
+### How do you protect our data?
+TradeClaw is designed to work as trustless as possible, none of our systems are directly accessible from the internet and everything is encrypted in the database.
+
+### Will there be a multi-lingual interface or community?
+As the platform grows this will become a higher priority, for now all information and communication will be in english. \
+Active members that want to earn a higher tier membership can always translate, this will be peer-reviewed before being accepted to avoid poor quality Google Translate text.
