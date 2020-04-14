@@ -4,6 +4,12 @@ If you have additional questions, feel free to leave them in the Discord channel
 ### What is TradeClaw?
 TradeClaw is the 3rd iteration of a platform that generates trading signals and automated follow-up on those signal in the form of a trading bot.\
 
+### Where is the TradeClaw community?
+You can find us on Discord:\
+https://discord.gg/9H226nX  \
+\
+We made this choice to make it manageable and easy to moderate, the trading space on the internet is filled with false promises and fake portfolio management services so we want to avoid our users being scammed on our watch!
+
 ### What is the track record of v1/v2 of TradeClaw?
 The platform is profitable, over 65% of trades close green monthly and drawdown has been limited due to the fact that everything is automated and enhanced over the years with features to uphold a good strategy.\
 There is a reporting feature on the roadmap to be as transparant as possible.
@@ -19,12 +25,6 @@ The platform works and this provides a new challenge in exposing what we have be
 
 ### Do you offer financial services?
 No, we do not offer financial services nor any financial advice.
-
-### Where is the TradeClaw community?
-You can find us on Discord:\
-https://discord.gg/9H226nX  \
-\
-We made this choice to make it manageable and easy to moderate, the trading space on the internet is filled with false promises and fake portfolio management services so we want to avoid our users being scammed on our watch!
 
 ### What are the community guidelines?
 The rules are:
