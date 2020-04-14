@@ -100,3 +100,17 @@ It is very important you know how to manage risk and size positions before makin
 
 ### How does TradeClaw calculate those signals?
 This will not be revealed since this is the algorithm we have developed and fine-tuned over the years.
+
+### How can I be certain you won't abuse my API keys needed for the trading bot service?
+In all honesty, we can't give you any certainty since there will be some trust needed and our reputation will build up over time. \
+You can always stick to using the trading signals and executing the trades yourself, there is no obligation in using the bot service.
+
+### Will there be an ICO/IPO or any other investment offering?
+No, we do not need any investment to launch the TradeClaw platform, it provides its own funds for covering operational costs.
+
+### Is this a cryptocurrency or blockchain platform?
+At the time of writing, only payment options will likely be cryptocurrency based. \
+This does not exclude anything in the future if the technology is needed.
+
+### Do you have or use a cryptocurrency token?
+No, we do not have plans to create a token but do not exclude the possibility in the future.
