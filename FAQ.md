@@ -126,5 +126,5 @@ You can find our most recent roadmap of the platforms we support or plan on supp
 * Forex
 
 ### Is there an insurance fund for losses caused by the TradeClaw bot service?
-The TradeClaw bot service is not a financial service and not every trade will be profitable, we do not make any promises in the monthly profit it will make for you and patience is going to be your best friend. \
-People offering 50% weekly gains or 9 out of 10 trades closing in profit, are not worth your trust.
+No, there are no plans of creating an insurance fund because the TradeClaw bot service is not a financial service and not every trade will be profitable, we do not make any promises in the monthly profit it will make for you and patience is going to be your best friend. \
+People claiming differently and offering 50% weekly gains or 9 out of 10 trades closing in profit, are probably not worth your trust.
