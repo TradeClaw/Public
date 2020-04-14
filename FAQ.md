@@ -47,3 +47,14 @@ We will never manage your funds in our accounts so nobody can lose anything, a c
 As stated above, TradeClaw is about showing our work to the world and what better way to do this than sharing some for free? \
 This free or basic membership has its limitations and the signals are delayed compared to the paid counterparts. \
 The higher tier members have the ability to make requests for features and get priority in support, whereas the basic members receive a best effort service based on the availability of our support staff.
+
+### Can I get an invoice? Are you a VAT registered business?
+We currently do not offer invoices or other B2B aspects, feel free to check in with us via a support ticket to see if this has changed.
+
+### How will payment be done and how much is it?
+Our preference will be cryptocurrency as a way of paying for membership but this has not been worked out at the time of writing. \
+We have decided to only offer monthly subscriptions because we are sure our product quality is good and we do not need to lure anyone in with a 'limited offer' yearly payment option. \
+
+### Will you have a referral or MLM option?
+Short answer: yes. \
+At least for a chance of earning a higher tier membership or getting a percentage off, we are still investigating other possibilities.
