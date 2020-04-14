@@ -58,7 +58,8 @@ We have decided to only offer monthly subscriptions because we are sure our prod
 
 ### Will you have a referral or MLM option?
 Short answer: yes. \
-At least for a chance of earning a higher tier membership or getting a percentage off, we are still investigating other possibilities.
+At least for a chance of earning a higher tier membership or getting a percentage off, we are still investigating other possibilities. \
+We know these terms sound 'scammy' but it's a good self-sustaining way of spreading the word, a user convinced of the quality of the product will bring in other valuable members for our community and there will be a reward for that effort.
 
 ### Are you open to working together or any business offers?
 We have been in this space for a long time and know the drill, most of the inquires are not legit or will not benefit anything on TradeClaw. \
@@ -75,3 +76,18 @@ TradeClaw is designed to work as trustless as possible, none of our systems are 
 ### Will there be a multi-lingual interface or community?
 As the platform grows this will become a higher priority, for now all information and communication will be in english. \
 Active members that want to earn a higher tier membership can always translate, this will be peer-reviewed before being accepted to avoid poor quality Google Translate text.
+
+### How can I actively help out? Is there a reward for active members?
+We currently are putting together a list of things we consider being helpful or active:
+* Translation (Interface)
+* Translation (Discord)
+* Translation (Documentation)
+* Moderation (Discord)
+* Support (Tickets)
+* Support (Discord)
+* Community building (Discord)
+* Ambassador (Instagram)
+* Ambassador (Twitter)
+* Ambassador (Facebook)
+* Ambassador (Youtube)
+* Ambassador (Articles/Blogging)
