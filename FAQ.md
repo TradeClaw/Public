@@ -70,6 +70,9 @@ Of course we are open to serious business offers with a mutual benefit.
 The responsibility of knowing wether or not you are allowed to use our services, lies with you. \
 To our knowledge we will not provide any service that is illegal anywhere in the world.
 
+### Will KYC be required for the TradeClaw platform?
+No, there aren't any services on the roadmap that require KYC registration.
+
 ### How do you protect our data?
 TradeClaw is designed to work as trustless as possible, none of our systems are directly accessible from the internet and everything is encrypted in the database.
 
