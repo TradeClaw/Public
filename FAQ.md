@@ -93,3 +93,10 @@ We currently are putting together a list of things we consider being helpful or 
 * Ambassador (Articles/Blogging) 
 
 And yes, there will be rewards for all of these actions but they will have to be of high quality, especially the ambassador work can not be spamming or copy/pasting the same things all over.
+
+### What can I do with the TradeClaw trading signals?
+Trading signals are commonly used by traders as BUY/SELL signals, if you are unfamiliar with this mechanic then we happily redirect you to Youtube which contains an almost endless supply of videos on the matter. \
+It is very important you know how to manage risk and size positions before making real trades, some platforms offer a demo or test version to play around and we highly recommend doing that!
+
+### How does TradeClaw calculate those signals?
+This will not be revealed since this is the algorithm we have developed and fine-tuned over the years.
