@@ -132,5 +132,4 @@ TradeClaw will always run two versions of the code, only the long-term stable ve
 
 ### What is the (Application/Infrastructure) design of TradeClaw?
 For security reasons this will not be disclosed. \
-
 Every member of our team has been working in the datacenter and service provider business for at least 15 years, TradeClaw is built on a ton of experience!
