@@ -138,3 +138,7 @@ Every member of our team has been working in the datacenter and service provider
 ### What happens with open trades if I change the assets or funds on my trading platform account?
 TradeClaw will show which and how many assets/funds are needed for it to function properly, if you change this while the bot service is active and a trade is in progress, you are risking failure on mechanics like average down orders. \
 When a trade opens, your account situation regarding the asset will be checked and logged in our database for full tracking of what went wrong in case of failure.
+
+### Will TradeClaw allow me to choose my preferred indicators or strategies?
+Yes and no, there will be proprietary flavors to chose from depending on your preference in risk. \
+There won't be indicators or 'build your own strategy' tools in our platform, the goal is to make it as easy as possible.
