@@ -117,3 +117,10 @@ This does not exclude anything in the future if the technology is needed.
 
 ### Do you have or use a cryptocurrency token?
 No, we do not have plans to create a token but do not exclude the possibility in the future.
+
+### Which markets will TradeClaw provide signals or bot services for?
+There are no limits to which markets or instruments we can onboard in TradeClaw, feel free to make suggestions. \
+You can find our most recent roadmap of the platforms we support or plan on supporting, in the README or changelog.
+* Cryptocurrency
+* Stocks
+* Forex
