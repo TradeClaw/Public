@@ -41,7 +41,7 @@ For some reason there is a popular belief in arbitrage, we have done the experim
 Today privacy is a rare gift, we do not share our identities for a number of reasons and advice you to do the same, identity theft is no laughing matter.
 
 ### What happens if you get shut down?
-Nothing, the platform will still exist without it's website or what not. \
+Nothing, the platform will still exist without its website or what not. \
 We will never manage your funds in our accounts so nobody can lose anything, a choice made to minimize risk even though there is nothing illegal about TradeClaw.
 
 ### Why are you having a free membership possibility?
@@ -105,7 +105,7 @@ It is very important you know how to manage risk and size positions before makin
 This will not be revealed since this is the algorithm we have developed and fine-tuned over the years.
 
 ### How can I be certain you won't abuse my API keys needed for the trading bot service?
-In all honesty, we can't give you any certainty since there will be some trust needed and our reputation will build up over time. \
+In all honesty, we can't give you any certainty since there is some trust required and our reputation will build up over time. \
 You can always stick to using the trading signals and executing the trades yourself, there is no obligation in using the bot service. \
 It's also a good idea to create a separate account on the trading platform of your choice, if their terms allow it.
 
