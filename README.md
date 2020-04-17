@@ -28,12 +28,12 @@ https://discord.gg/9H226nX
 - Add Bitfinex
 - Add Kraken
 - Add LaToken
-- Add Poloniex
 - Add UpBit
-- Add BinancenUS
+- Add Binance US
 - Add ByBit
 - Add Deribit
 - Add KuCoin
+- Add Poloniex
 ### Phase 2 Priorities
 - Strategy composition
 - Leverage trading
@@ -46,6 +46,29 @@ https://discord.gg/9H226nX
 ### Phase 3 Priorities
 - User graphing interface
 - User exchange delegation (Advanced)
+
+## [0.0.3] SLOTH - 2020-04-17
+### Summary
+Update on development progress:
+Focussing on adding more exchanges to test out the core layer stability!
+
+### Added
+- REST interface for the database
+- GZIP stream decoding
+- Users & accounts modules
+- Binance addition
+- Bitmex addition
+- Huobi Global addition
+- Huobi Global Test addition
+- Bitmart addition (inactive for now, that API is a disaster)
+- Trade8 addition (crypto/forex/stocks/bonds)
+- KuCoin addition
+- KuCoin Test addition
+
+### Changed 
+- Improve websocket error handling
+- Improve websocket dynamic endpoints
+
 
 ## [0.0.2] SLOTH - 2020-04-12
 ### Summary
