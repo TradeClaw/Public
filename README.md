@@ -1,18 +1,18 @@
 # TradeClaw.net
-Releasing summer 2020
-* Trading signals (free & paid subscriptions)
-* Automated trading bot (Phase 2)
+Releasing in 2020
+* Trading signals (free & paid subscriptions, Summer 2020)
+* Automated trading bot (Fall 2020)
 
 For more up to date information, join our Discord
 https://discord.gg/9H226nX
 
-### CHANGELOG : 2020-04-12 ###
+### CHANGELOG : 2020-04-25 ###
 
 ### Known issues
 - None
 
 ### Feature request list
-- Binance addition
+- None
 
 ### Phase 1 Priorities
 - REST API for database
@@ -46,6 +46,34 @@ https://discord.gg/9H226nX
 ### Phase 3 Priorities
 - User graphing interface
 - User exchange delegation (Advanced)
+
+## [0.0.4] SLOTH - 2020-04-25
+### Summary
+Update on development progress:
+Still adding more exchanges, 8 onboarded in the framework. (Bitmex, Binance, Bitfinex, Bitmart, ByBit, Huobi Global, KuCoin, Trade8)
+CoinAPI added, that might come in handy one day for additional features like planned for Taapi.io
+Decided that this might be a better approach because we already have the code for the next phase and it will only require slight adjustment from v2.
+Expanding to more exchanges at the start, gives insight in their differences to not run into issues with the framework in the future, first time right!
+Most time in May will be spent in rigorous testing and writing a decent simulation module.
+Next up are GDAX, HitBTC, Bittrex, Cex.io, FTX, Poloniex, ... more requests?
+We're going to use acronyms for framework functionality to make it more clear what/where is changing.
+
+### Added
+- Testing the result of REST calls
+- Generalized the getting candles from REST
+- Framework logic to get kline/candle data on websockets that do not provide it (No known public solution for in existence!)
+
+### Changed 
+- A lot of framework code for centralized error handling
+- Retry mechanisms where needed, for instance when the kline data on REST was behind of the websocket for a few seconds
+
+### Planned
+- Add 6 exchanges to the Dynamic Exchange Engine (DEE)
+- Historical database design for kline/indicators
+- Fill up history
+- Calculate indicators historically
+- Dynamic Strategy Engine (DSE)
+- Centralized Simulation Engine (CSE)
 
 ## [0.0.3] SLOTH - 2020-04-17
 ### Summary
