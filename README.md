@@ -68,12 +68,12 @@ We're going to use acronyms for framework functionality to make it more clear wh
 - Retry mechanisms where needed, for instance when the kline data on REST was behind of the websocket for a few seconds
 
 ### Planned
-- Add 6 exchanges to the Dynamic Exchange Engine (DEE)
+- Add 6 exchanges to the Dynamic Exchange Framework (DEF)
 - Historical database design for kline/indicators
 - Fill up history
 - Calculate indicators historically
 - Dynamic Strategy Engine (DSE)
-- Centralized Simulation Engine (CSE)
+- Centralized Simulation Evaluator (CSE)
 
 ## [0.0.3] SLOTH - 2020-04-17
 ### Summary
