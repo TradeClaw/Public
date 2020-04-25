@@ -62,12 +62,12 @@ At least for a chance of earning a higher tier membership or getting a percentag
 We know these terms sound 'scammy' but it's a good self-sustaining way of spreading the word, a user convinced of the quality of the product will bring in other valuable members for our community and there will be a reward for that effort.
 
 ### Are you open to working together or any business offers?
-We have been in this space for a long time and know the drill, most of the inquires are not legit or will not benefit anything on TradeClaw. \
+We have been in this space for a long time and know the drill, most of the inquiries are not legit or will not benefit anything on TradeClaw. \
 We are NOT looking to pay for social media marketing, promotion or shout outs. \
 Of course we are open to serious business offers with a mutual benefit.
 
 ### Am I allowed to join the TradeClaw platform as a resident of my country?
-The responsibility of knowing wether or not you are allowed to use our services, lies with you. \
+The responsibility of knowing whether or not you are allowed to use our services, lies with you. \
 To our knowledge we will not provide any service that is illegal anywhere in the world.
 
 ### Will KYC be required for the TradeClaw platform?
