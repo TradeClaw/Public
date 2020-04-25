@@ -55,7 +55,7 @@ CoinAPI added, that might come in handy one day for additional features like pla
 Decided that this might be a better approach because we already have the code for the next phase and it will only require slight adjustment from v2.
 Expanding to more exchanges at the start, gives insight in their differences to not run into issues with the framework in the future, first time right!
 Most time in May will be spent in rigorous testing and writing a decent simulation module.
-Next up are GDAX, HitBTC, Bittrex, Cex.io, FTX, Poloniex, Deribit, Kraken ... more requests?
+Next up are GDAX, HitBTC, Bittrex, Cex.io, FTX, Poloniex, Deribit, Kraken, OKex, BitForex ... more requests?
 We're going to use acronyms for framework functionality to make it more clear what/where is changing.
 
 ### Added
