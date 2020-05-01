@@ -6,7 +6,7 @@ TradeClaw is the 3rd iteration of a platform that generates trading signals and 
 
 ### Where is the TradeClaw community?
 You can find us on Discord:\
-https://discord.gg/9H226nX  \
+https://discord.gg/MJfsnD9  \
 \
 We made this choice to make it manageable and easy to moderate. \
 The trading space on the internet is filled with false promises, fake portfolio management services and ponzi schemes so we want to avoid our users being scammed on our watch!
