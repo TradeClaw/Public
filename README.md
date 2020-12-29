@@ -6,7 +6,7 @@ Releasing in 2020
 For more up to date information, join our Discord
 https://discord.gg/MJfsnD9
 
-### CHANGELOG : 2020-04-25 ###
+### CHANGELOG : 2020-12-30 ###
 
 ### Known issues
 - None
@@ -46,6 +46,33 @@ https://discord.gg/MJfsnD9
 ### Phase 3 Priorities
 - User graphing interface
 - User exchange delegation (Advanced)
+
+## [0.9.0] Private BETA - 2020-12-19
+### Summary
+Update on development progress:
+After doing some serious testing of the competition like 3Commas and Hummingbot, decided to do a complete redesign of the internal order and position framework.
+This has taken several months of writing code and testing, balanced with work-life, and resulted in an engine that can serve high capital needs or aggressive market making.
+The amount of modules doubled and that only with a focus on Binance Spot integration for launch, integrating virtually every possible platform.
+During the testing days, portfolio results of 1-2% profit in 24h have been achieved, more testing required since it has been an exceptional bull market scenario.
+Virtual Position Coordinator (VPC) allows for trading on any kind of instrument, spot/margin/futures, incorporating advanced possibilities for the trading strategy.
+Sneak peak: stoploss can be more than that on spot trading, it can decide to keep the asset as inventory and use it to 'short', recovering the loss as an aggressive market maker.
+
+### Added
+- Virtual Position Coordinator (VPC)
+- Internal Order Follower (IOF)
+- Async-Sync split for improved performance
+- So much more...
+
+### Changed 
+- Almost every planned feature has been implemented except for the CSE.
+- Memory Optimization (10x reduction)
+
+### Planned (short term)
+- Binance Futures (USDT)
+- Additional memory optimization
+- More dynamic position/order follow-up without the need to manually set 'the right parameters for this market condition' 
+- Centralized Simulation Evaluator (CSE)
+
 
 ## [0.0.4] SLOTH - 2020-04-25
 ### Summary
