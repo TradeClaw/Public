@@ -4,7 +4,7 @@ Releasing in 2020
 * Automated trading bot (Fall 2020)
 
 For more up to date information, join our Discord
-https://discord.gg/MJfsnD9
+https://discord.gg/GR8fvbTVt3
 
 ### CHANGELOG : 2020-12-30 ###
 
